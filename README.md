@@ -2,7 +2,7 @@
 
 ### This project
 
-This project, is POC (Prove of Conceit), about utilization websocket to print label.
+This project, is POC (Proof of Concept), about utilization websocket to print label.
 
 In this project has possibility to configure `default.printer` and `url.socket.label` in the archive application.properties or parameter in the command line.
 
