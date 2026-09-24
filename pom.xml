@@ -16,7 +16,7 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<apache.freemarker>2.3.29</apache.freemarker>
+		<apache.freemarker>2.3.35</apache.freemarker>
 		<google.zxing>3.3.3</google.zxing>
         <itext>5.5.13.1</itext>
 		<pdf.box>2.0.16</pdf.box>
